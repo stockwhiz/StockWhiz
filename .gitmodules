@@ -12,7 +12,7 @@
 	url = https://github.com/savakarrohan/exampleFiles.git
 [submodule "jupyter-packages"]
 	path = jupyter-packages
-	url = .\\jupyter-packages\\
+	url = https://github.com/savakarrohan/jupyter-packages.git
 [submodule "python-packages"]
 	path = python-packages
-	url = .\\python-packages\\
+	url =  https://github.com/savakarrohan/python-packages.git
