@@ -4,3 +4,6 @@
 [submodule "pyodide"]
 	path = pyodide
 	url = .\\pyodide\\
+[submodule "jupyterlite"]
+	path = jupyterlite
+	url = .\\jupyterlite\\
