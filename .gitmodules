@@ -10,3 +10,9 @@
 [submodule "exampleFiles"]
 	path = exampleFiles
 	url = .\\exampleFiles\\
+[submodule "jupyter-packages"]
+	path = jupyter-packages
+	url = .\\jupyter-packages\\
+[submodule "python-packages"]
+	path = python-packages
+	url = .\\python-packages\\
