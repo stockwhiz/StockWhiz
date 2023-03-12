@@ -1,0 +1,3 @@
+[submodule "StockWhiz-web"]
+	path = StockWhiz-web
+	url = .\\StockWhiz-web\\
