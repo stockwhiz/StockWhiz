@@ -16,3 +16,6 @@
 [submodule "python-packages"]
 	path = python-packages
 	url =  https://github.com/savakarrohan/python-packages.git
+[submodule "jupyterlab"]
+	path = jupyterlab
+	url = https://github.com/savakarrohan/jupyterlab.git
