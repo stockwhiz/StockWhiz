@@ -7,3 +7,6 @@
 [submodule "jupyterlite"]
 	path = jupyterlite
 	url = .\\jupyterlite\\
+[submodule "exampleFiles"]
+	path = exampleFiles
+	url = .\\exampleFiles\\
