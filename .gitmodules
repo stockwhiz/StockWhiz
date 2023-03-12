@@ -1,3 +1,6 @@
 [submodule "StockWhiz-web"]
 	path = StockWhiz-web
 	url = .\\StockWhiz-web\\
+[submodule "pyodide"]
+	path = pyodide
+	url = .\\pyodide\\
