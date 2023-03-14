@@ -1,21 +1,21 @@
 [submodule "StockWhiz-web"]
 	path = StockWhiz-web
-	url = https://github.com/savakarrohan/StockWhiz-web.git
+	url = https://github.com/stockwhiz/StockWhiz-web.git
 [submodule "pyodide"]
 	path = pyodide
-	url = https://github.com/savakarrohan/pyodide.git
+	url = https://github.com/stockwhiz/pyodide.git
 [submodule "jupyterlite"]
 	path = jupyterlite
-	url = https://github.com/savakarrohan/jupyterlite.git
+	url = https://github.com/stockwhiz/jupyterlite.git
 [submodule "exampleFiles"]
 	path = exampleFiles
-	url = https://github.com/savakarrohan/exampleFiles.git
+	url = https://github.com/stockwhiz/exampleFiles.git
 [submodule "jupyter-packages"]
 	path = jupyter-packages
-	url = https://github.com/savakarrohan/jupyter-packages.git
+	url = https://github.com/stockwhiz/jupyter-packages.git
 [submodule "python-packages"]
 	path = python-packages
-	url =  https://github.com/savakarrohan/python-packages.git
+	url =  https://github.com/stockwhiz/python-packages.git
 [submodule "jupyterlab"]
 	path = jupyterlab
-	url = https://github.com/savakarrohan/jupyterlab.git
+	url = https://github.com/stockwhiz/jupyterlab.git
